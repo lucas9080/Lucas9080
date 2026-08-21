@@ -57,7 +57,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e meu foco é desenv
 
  🚀 **DevOps** - Conhecimento básico, porém prático, em docker, CI/CD e implementação de sistemas.
 
- 🐍 **Python** - Conhecimento básico, porém prático, em docker, CI/CD e implementação de sistemas.
+ 🐍 **Python** - Conhecimento prático na criação de automações com Python.
 
 ---
 
@@ -69,7 +69,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e meu foco é desenv
 
  [**KanbanAndTools**](link) | ✅ Gerenciador de tarefas, com login, cadastro, CRUD completo, quadros no estilo kanban. | Next.js, Javascript,OpenCode, IA.
 
-  [**KanbanAndTools**](link) | ✅ Gerenciador de tarefas, com login, cadastro, CRUD completo, quadros no estilo kanban. | Next.js, Javascript,OpenCode, IA.
+  [**react-libtools**](link) | ✅ Biblioteca criada para atender demandas de design, com conceito moderno e interativo. Pode ser utilizada para documentos, livros, vídeos, músicas e demais peças interativas de design..
 
  [**Ecommerce_completo**](link) | 🧱 Em construção | React.js, Node.js, PostgreSQL.
 
